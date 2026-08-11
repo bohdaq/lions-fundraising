@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -sI https://fonts.gstatic.com/s/anton/v25/1Ptgg87LROyAm3K8-C8CSKlv.ttf)"
+    ]
+  }
+}
